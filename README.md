@@ -4,8 +4,7 @@
 
 The project, named "Jeanne-AI-FMRADIO-ANALYSER-INTERNSHIP," aims to develop a voice assistant that operates without internet connectivity, utilizing radio waves to provide useful information to individuals in remote locations. The team chose radio due to its widespread accessibility, reliability, and capacity to transmit practical information such as weather updates and time.
 
-<a href="https://goopics.net/i/y8j3ja"><img src="https://i.goopics.net/y8j3ja.png" alt="Image"></a>
-
+<a href="https://ibb.co/CM0zRvV"><img src="https://i.ibb.co/z7frqbP/Printed-Proto-v1.png" alt="Printed-Proto" border="0"></a>
 ### Key Points PDF Reports
 
 1. **Project Background:**
@@ -47,9 +46,11 @@ The project, named "Jeanne-AI-FMRADIO-ANALYSER-INTERNSHIP," aims to develop a vo
 This summary provides an overview of key aspects of the project, its evolution, and technological choices made. Refer to the full document for a comprehensive understanding of development and encountered challenges.
 
 **Connections:**
-<a href="https://goopics.net/i/lisy8o"><img src="https://i.goopics.net/lisy8o.png" alt="Image"></a>
+
+<a href="https://ibb.co/z6zcMvr"><img src="https://i.ibb.co/5KPD0H6/link.png" alt="link"></a>
 
 **Prototype:**
-<a href="https://goopics.net/i/4jt7d8"><img src="https://i.goopics.net/4jt7d8.png" alt="Image"></a>
-<a href="https://goopics.net/i/te5hbb"><img src="https://i.goopics.net/te5hbb.png" alt="Image"></a>
-<a href="https://goopics.net/i/1gsjqa"><img src="https://i.goopics.net/1gsjqa.png" alt="Image"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Nr02RQj/Prototype.png" alt="Prototype"></a>
+<a href="https://ibb.co/6vyfnqZ"><img src="https://i.ibb.co/SQ69sZx/3d-print-2.png" alt="3d-print-2"></a>
+<a href="https://ibb.co/58zWp0z"><img src="https://i.ibb.co/DC6DcJ6/3d-print.png" alt="3d-print"></a>
